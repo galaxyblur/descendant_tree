@@ -1,0 +1,9 @@
+{
+  "name": "Mestre Zé Andrade",
+  "children": [
+    {
+      "name": "Mestre Corisco",
+      "source": "json/ascab_corisco.json"
+    }
+  ]
+}
